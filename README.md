@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats (My Personal Contributions Only)
+## 📊 GitHub Stats (My Personal Contributions)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mesfinhaileslassie&theme=tokyonight&hide_border=true)
 
