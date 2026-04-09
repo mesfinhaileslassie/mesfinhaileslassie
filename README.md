@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats (My Personal Contributions)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mesfinhaileslassie&theme=tokyonight&hide_border=true)
+![GitHub Contributions](https://img.shields.io/badge/Total_Contributions-226-blue?style=for-the-badge&logo=github)
 
 ![GitHub Stats](https://github-readme-stats-liart-psi.vercel.app/api?username=mesfinhaileslassie&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-liart-psi.vercel.app/api/top-langs/?username=mesfinhaileslassie&layout=compact&theme=tokyonight)
