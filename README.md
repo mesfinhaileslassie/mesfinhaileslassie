@@ -28,8 +28,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesfinhaileslassie&show_icons=true&count_private=true)
----
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mesfinhaileslassie&theme=react-dark&area=true)
 
 ## 📫 Contact Me
 - Email: mesfinhaileslassie17@gmail.com  
