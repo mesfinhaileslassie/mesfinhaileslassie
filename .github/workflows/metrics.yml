@@ -18,12 +18,24 @@ jobs:
           user: mesfinhaileslassie
           filename: assets/metrics.svg
           base: header, activity, community, repositories, metadata
+          
+          # Language stats
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_lines: yes
+          
+          # Activity settings - THIS IS KEY
           plugin_activity: yes
           plugin_activity_days: 365
           plugin_activity_limit: 10
-          plugin_activity_visibility: public
+          plugin_activity_visibility: all  # Changed from "public" to "all"
+          plugin_activity_timestamp: yes   # Shows when contributions happened
+          plugin_activity_filter: all      # Shows all activity types
+          
+          # Notable contributions (PRs, issues)
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: all         # Includes your own repos
+          
+          # Calendar shows total contributions
+          plugin_calendar: yes
+          plugin_calendar_limit: 365
