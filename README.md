@@ -30,11 +30,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Mesfin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesfinhaileslassie&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesfinhaileslassie&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mesfinhaileslassie&theme=tokyonight)
 
 ---
