@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Mesfin
 
-<!--
-**mesfinhaileslassie/mesfinhaileslassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+GitHub;I+am+a+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things)
 
-Here are some ideas to get you started:
+💻 Computer Science Student  
+🌍 Based in Ethiopia  
+🚀 Aspiring Web Developer  
+🌱 Currently learning: JavaScript, PHP, React, MongoDB, Express.js, Node.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- 🌐 HTML | CSS | JavaScript  
+- ⚙️ PHP | MySQL  
+- 🧠 MongoDB | Express.js | React | Node.js  
+- 🔧 Git & GitHub  
+
+---
+
+## 📌 Projects
+- 💳 Ecommerce Website (MERN)  
+- 📝 Clearance Management (Java + MySQL)  
+- 🔐 Employee Management (Java)  
+- 🌾 Crop Yield Prediction AI Model (Python)  
+- 🤖 Local Code Assistant (Python)  
+- 🎓 Virtual Classroom (MERN)  
+
+---
+
+## 📊 GitHub Stats
+![Mesfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesfinhaileslassie&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- Email: mesfinhaileslassie17@gmail.com  
+
+---
+
+## ⚡ About Me
+I enjoy solving problems and building real-world web applications.  
+Currently focused on improving my backend and frontend skills.
