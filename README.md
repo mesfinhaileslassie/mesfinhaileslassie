@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mesfin
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+GitHub;I+build+Web+Apps;MERN+Stack+Developer;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Projects;Building+Real+World+Apps;Open+to+Opportunities)
 
 💻 Computer Science Student  
 🌍 Based in Ethiopia  
@@ -29,19 +29,6 @@
 
 ## 📊 GitHub Stats
 ![Mesfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesfinhaileslassie&show_icons=true)
-
----
-
-## 🖥️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesfinhaileslassie&layout=compact&theme=tokyonight)
-
----
-
-## 🌟 Featured Projects
-
-[![Ecommerce Website]()](https://github.com/mesfinhaileslassie/ecommerce-website)  
-[![Crop Yield Prediction](https://via.placeholder.com/300x150.png?text=Crop+Yield+Prediction)](https://github.com/mesfinhaileslassie/crop-yield-prediction)  
-[![Virtual Classroom](https://via.placeholder.com/300x150.png?text=Virtual+Classroom)](https://github.com/mesfinhaileslassie/virtual-classroom)  
 
 ---
 
