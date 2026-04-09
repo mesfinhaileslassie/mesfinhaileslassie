@@ -39,7 +39,7 @@
 
 ## 🌟 Featured Projects
 
-[![Ecommerce Website](https://via.placeholder.com/300x150.png?text=Ecommerce+Website)](https://github.com/mesfinhaileslassie/ecommerce-website)  
+[![Ecommerce Website]()](https://github.com/mesfinhaileslassie/ecommerce-website)  
 [![Crop Yield Prediction](https://via.placeholder.com/300x150.png?text=Crop+Yield+Prediction)](https://github.com/mesfinhaileslassie/crop-yield-prediction)  
 [![Virtual Classroom](https://via.placeholder.com/300x150.png?text=Virtual+Classroom)](https://github.com/mesfinhaileslassie/virtual-classroom)  
 
