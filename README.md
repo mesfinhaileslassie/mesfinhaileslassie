@@ -41,8 +41,8 @@
 
 ## 📫 Connect With Me
 - 📧 **Email:** mesfinhaileslassie17@gmail.com  
-- 💼 **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)  
-- 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mesfin-haileslassie-b2105133a/
+- 🐦 **Telegram:** @Mesfinchacha
 
 ---
 
@@ -50,7 +50,7 @@
 I enjoy solving problems and building real-world web applications.  
 Currently focused on improving my backend and frontend skills.  
 
-🎯 **2025 Goals:**  
+🎯 **2026 Goals:**  
 - Contribute to open source  
 - Land a developer internship  
 - Build and deploy 5 full-stack projects
