@@ -33,10 +33,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mesfinhaileslassie&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesfinhaileslassie&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesfinhaileslassie&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats-liart-psi.vercel.app/api?username=mesfinhaileslassie&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-liart-psi.vercel.app/api/top-langs/?username=mesfinhaileslassie&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
