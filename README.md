@@ -29,8 +29,13 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mesfinhaileslassie&theme=tokyonight)
+## 📊 GitHub Stats (My Personal Contributions Only)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mesfinhaileslassie&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesfinhaileslassie&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesfinhaileslassie&layout=compact&theme=tokyonight)
 
 ---
 
