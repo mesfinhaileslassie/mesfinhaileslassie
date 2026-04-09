@@ -28,7 +28,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mesfinhaileslassie&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesfinhaileslassie&show_icons=true&count_private=true)
 ---
 
 ## 📫 Contact Me
